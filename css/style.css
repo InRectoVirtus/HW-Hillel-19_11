@@ -1,0 +1,25 @@
+.block {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    flex-direction: column-reverse;
+
+    margin-top: 25px;
+    width: 45px;
+    height: 108px;
+    border: 1px solid black;
+
+}
+
+.green {
+    background-color: green;
+    height: 1%;
+}
+
+.red {
+    background-color: red;
+}
